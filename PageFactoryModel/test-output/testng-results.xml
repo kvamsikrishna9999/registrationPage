@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application is launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[MouseHover to the QA Automation is successfully completed]]>
+    </line>
+    <line>
+      <![CDATA[MouseHover to the PracticalAutomation is successfully completed]]>
+    </line>
+    <line>
+      <![CDATA[Registration Form Page is successfully displayeded]]>
+    </line>
+    <line>
+      <![CDATA[Registration For Demo title is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The Registration title page is :Register For Demo]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[FirstName is displayed successfully as : Krishna]]>
+    </line>
+    <line>
+      <![CDATA[FirstName is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Firstname is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[LastName is displayed successfully as : Kodipalli]]>
+    </line>
+    <line>
+      <![CDATA[LastName is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[LastName is successfully enabled]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[Male radio button is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Male radio button is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Male radio button is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[StreetName is displayed successfully as : DwarakaNagar]]>
+    </line>
+    <line>
+      <![CDATA[StreetName is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Streetname is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[Appartment name is displayed successfully as : Brundavanam]]>
+    </line>
+    <line>
+      <![CDATA[Appartment name is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The appartmentname is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[CityName is displayed successfully as :Singarayakonda]]>
+    </line>
+    <line>
+      <![CDATA[CityName is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The city name is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[StateName is displayed successfully as : AndhraPradesh]]>
+    </line>
+    <line>
+      <![CDATA[StateName is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The Statename is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[Postal code is displayed successfully as : 523101]]>
+    </line>
+    <line>
+      <![CDATA[Postal code is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The Postal code is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[CountryName is selected successfully as :India]]>
+    </line>
+    <line>
+      <![CDATA[CountryName is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[CountryName is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[Email Id is displayed successfully as : krish9999@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Email Id is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The Email Id is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[Date of demo is displayed successfully as :09-08-2022]]>
+    </line>
+    <line>
+      <![CDATA[Date of demo is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The Date of demo is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[The Hour dropdown is seleced successfully as 05]]>
+    </line>
+    <line>
+      <![CDATA[The Hour dropdown is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[The Hour dropdown is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[The Minute dropdown is selected successfully as : 40]]>
+    </line>
+    <line>
+      <![CDATA[The Minute dropdown is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[The Minute dropdown is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[The Mobile number is displayed successfully as :9234567322]]>
+    </line>
+    <line>
+      <![CDATA[The Mobile number is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The Minute dropdown is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[Selenium course is not selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Selenium course is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[UFT course is not selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[UFT course is Enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[TestNG course is not selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[TestNG course is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[The Query is displayed as : This course is available for ofline learning ]]>
+    </line>
+    <line>
+      <![CDATA[The Query is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The Query is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[The Verification code is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The displayed two digits value is : 99]]>
+    </line>
+    <line>
+      <![CDATA[The two digits verification code is displayed as : 99]]>
+    </line>
+    <line>
+      <![CDATA[The two digits verification code is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The two digits verification code is enabled successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[The Submit button is not selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[**************************************]]>
+    </line>
+    <line>
+      <![CDATA[Validation successfull message is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[The Registration message of the page is :Registration Form is Successfully Submitted.]]>
+    </line>
+    <line>
+      <![CDATA[The Transaction ID is :NXTGEN1937465]]>
+    </line>
+    <line>
+      <![CDATA[Actual and expected validation codes are same]]>
+    </line>
+    <line>
+      <![CDATA[Successfull validation message is done successfully]]>
+    </line>
+    <line>
+      <![CDATA[Application is closed successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-16T08:35:00 IST" name="Default suite" finished-at="2022-08-16T08:35:30 IST" duration-ms="30052">
+    <groups>
+    </groups>
+    <test started-at="2022-08-16T08:35:00 IST" name="Default test" finished-at="2022-08-16T08:35:30 IST" duration-ms="30052">
+      <class name="com.telus.testcases.RegisterUserInfo">
+        <test-method signature="launchApplicationUrl()[pri:1, instance:com.telus.testcases.RegisterUserInfo@ffaa6af]" started-at="2022-08-16T08:35:00 IST" name="launchApplicationUrl" finished-at="2022-08-16T08:35:18 IST" duration-ms="18646" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application is launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchApplicationUrl -->
+        <test-method signature="navigationRegPage()[pri:2, instance:com.telus.testcases.RegisterUserInfo@ffaa6af]" started-at="2022-08-16T08:35:18 IST" name="navigationRegPage" finished-at="2022-08-16T08:35:21 IST" duration-ms="2857" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[MouseHover to the QA Automation is successfully completed]]>
+            </line>
+            <line>
+              <![CDATA[MouseHover to the PracticalAutomation is successfully completed]]>
+            </line>
+            <line>
+              <![CDATA[Registration Form Page is successfully displayeded]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigationRegPage -->
+        <test-method signature="registerUser()[pri:3, instance:com.telus.testcases.RegisterUserInfo@ffaa6af]" started-at="2022-08-16T08:35:21 IST" name="registerUser" finished-at="2022-08-16T08:35:27 IST" duration-ms="5866" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Registration For Demo title is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The Registration title page is :Register For Demo]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[FirstName is displayed successfully as : Krishna]]>
+            </line>
+            <line>
+              <![CDATA[FirstName is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Firstname is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[LastName is displayed successfully as : Kodipalli]]>
+            </line>
+            <line>
+              <![CDATA[LastName is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[LastName is successfully enabled]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[Male radio button is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Male radio button is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Male radio button is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[StreetName is displayed successfully as : DwarakaNagar]]>
+            </line>
+            <line>
+              <![CDATA[StreetName is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Streetname is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[Appartment name is displayed successfully as : Brundavanam]]>
+            </line>
+            <line>
+              <![CDATA[Appartment name is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The appartmentname is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[CityName is displayed successfully as :Singarayakonda]]>
+            </line>
+            <line>
+              <![CDATA[CityName is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The city name is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[StateName is displayed successfully as : AndhraPradesh]]>
+            </line>
+            <line>
+              <![CDATA[StateName is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The Statename is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[Postal code is displayed successfully as : 523101]]>
+            </line>
+            <line>
+              <![CDATA[Postal code is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The Postal code is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[CountryName is selected successfully as :India]]>
+            </line>
+            <line>
+              <![CDATA[CountryName is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[CountryName is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[Email Id is displayed successfully as : krish9999@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Email Id is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The Email Id is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[Date of demo is displayed successfully as :09-08-2022]]>
+            </line>
+            <line>
+              <![CDATA[Date of demo is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The Date of demo is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[The Hour dropdown is seleced successfully as 05]]>
+            </line>
+            <line>
+              <![CDATA[The Hour dropdown is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[The Hour dropdown is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[The Minute dropdown is selected successfully as : 40]]>
+            </line>
+            <line>
+              <![CDATA[The Minute dropdown is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[The Minute dropdown is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[The Mobile number is displayed successfully as :9234567322]]>
+            </line>
+            <line>
+              <![CDATA[The Mobile number is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The Minute dropdown is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[Selenium course is not selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Selenium course is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[UFT course is not selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[UFT course is Enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[TestNG course is not selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[TestNG course is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[The Query is displayed as : This course is available for ofline learning ]]>
+            </line>
+            <line>
+              <![CDATA[The Query is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The Query is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[The Verification code is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The displayed two digits value is : 99]]>
+            </line>
+            <line>
+              <![CDATA[The two digits verification code is displayed as : 99]]>
+            </line>
+            <line>
+              <![CDATA[The two digits verification code is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The two digits verification code is enabled successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+            <line>
+              <![CDATA[The Submit button is not selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[**************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method signature="successfullConformMsg()[pri:4, instance:com.telus.testcases.RegisterUserInfo@ffaa6af]" started-at="2022-08-16T08:35:27 IST" name="successfullConformMsg" finished-at="2022-08-16T08:35:27 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Validation successfull message is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[The Registration message of the page is :Registration Form is Successfully Submitted.]]>
+            </line>
+            <line>
+              <![CDATA[The Transaction ID is :NXTGEN1937465]]>
+            </line>
+            <line>
+              <![CDATA[Actual and expected validation codes are same]]>
+            </line>
+            <line>
+              <![CDATA[Successfull validation message is done successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- successfullConformMsg -->
+        <test-method signature="closeApplication()[pri:5, instance:com.telus.testcases.RegisterUserInfo@ffaa6af]" started-at="2022-08-16T08:35:27 IST" name="closeApplication" finished-at="2022-08-16T08:35:30 IST" duration-ms="2453" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application is closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.telus.testcases.RegisterUserInfo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
